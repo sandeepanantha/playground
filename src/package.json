@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/autocomplete/IntegrationDownshift.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "lodash": "latest",
+    "keycode": "latest",
+    "downshift": "latest",
+    "@material-ui/core": "latest"
+  }
+}
